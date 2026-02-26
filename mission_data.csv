@@ -1,0 +1,11 @@
+Mission_ID,Agency,Rocket_Type,Destination,Mission_Type,Launch_Date,Payload_kg,Fuel_kg,Thrust_N,Gravity,Estimated_Budget_Million,Scientific_Yield_Score,Mission_Success
+M001,NASA,Heavy Lift,Mars,Exploration,2024-01-10,40000,350000,12000000,3.71,8500,92,Success
+M002,SpaceX,Super Heavy,Jupiter,Research,2025-03-12,60000,450000,20000000,24.79,15000,88,Failure
+M003,ISRO,Medium Lift,Moon,Cargo,2023-06-20,25000,200000,8000000,1.62,3200,75,Success
+M004,NASA,Deep Space Vehicle,Saturn,Exploration,2026-07-12,50000,420000,15000000,10.44,13000,95,Success
+M005,SpaceX,Reusable Booster,Mars,Colonization,2025-11-05,70000,480000,10000000,3.71,17000,90,Failure
+M006,ISRO,Light Lift,Venus,Research,2023-02-17,20000,150000,6000000,8.87,2800,70,Success
+M007,NASA,Super Heavy,Europa,Exploration,2027-09-30,65000,500000,20000000,1.31,20000,98,Success
+M008,SpaceX,Heavy Lift,Titan,Research,2026-04-25,45000,360000,12000000,1.35,11000,89,Success
+M009,ISRO,Medium Lift,Pluto,Exploration,2024-08-14,30000,250000,8000000,0.62,5000,80,Failure
+M010,NASA,Deep Space Vehicle,Neptune,Research,2028-05-19,55000,470000,15000000,11.15,18000,94,Success
