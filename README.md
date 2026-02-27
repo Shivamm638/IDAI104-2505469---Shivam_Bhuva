@@ -147,27 +147,6 @@ The UI simulates a realistic mission control environment.
 
 ---
 
-## 🛠 Installation & Deployment
-
-### Step 1: Clone Repository
-
-git clone https://github.com/your-username/InterplanetaryMission.git  
-cd InterplanetaryMission  
-
-### Step 2: Install Requirements
-
-pip install -r requirements.txt  
-
-### Step 3: Run Locally
-
-streamlit run app.py  
-
-Access at:
-
-http://localhost:8501  
-
----
-
 ## 🌍 Streamlit Cloud Deployment
 
 1. Push project to GitHub  
