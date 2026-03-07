@@ -215,3 +215,11 @@ Mathematics for AI Project
 ## 📜 Academic Declaration
 
 This project was developed for academic purposes as part of the Artificial Intelligence coursework and demonstrates applied mathematical modeling, data analytics, and interactive system development.
+
+---
+
+## 🚀 Live App
+
+Click here to open the application:
+
+🔗 https://space-exploration.streamlit.app/
